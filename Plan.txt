@@ -1,0 +1,72 @@
+Plan:
+
+Location Layers
+0. Galaxy: 1
+1. Star System (Act): 100mil
+   Nebula: 10-25
+   Quasar: 1
+2. Planet (Scene): 1-12
+   Star: 1/2
+   Moon: 0-100
+   Comet/Asteroid: Single or Belt
+   Black Hole: 10mil
+3. Continet (Part): 1-12
+4. Country (Section): 1-60
+5. State (Chapter): 0-65
+   Region: 0-10
+6. Town/City (Episode): 1-7
+7. District: 0-25
+   Dungeon/Cave: 0-3
+   Road (between Towns/Cities): 1-5
+   Other Points of Interest: 0-4
+
+NPCs:
+1. Name
+2. Gender
+3. Race
+4. Class
+5. Alignment
+6. Weapon
+7. Age
+8. Quest + Reward
+
+Town:
+1. Name
+2. Population
+3. Majority Race
+4. Government
+Per District
+5. Points of Interest
+6. Notable NPCs
+
+Post Lv. 20 Rewards:
+Called Beyond Levels, Players gain a Beyond Level for every 500'000XP past Level 20
+and can redeem the following:
+. Ability Score Improvement
+  - Improve 1 Ability Score by 2 or 2 Scores by 1
+. Advanced Mastery
+  - Improve Proficiency Bonus by 1
+. Specified Resilience
+  - Gain Resistance to 1 Damage Type
+. Specified Resilience +
+  - Gain Immunity to 1 Damage Type
+    Requires Specified Resilience to the Damage Type
+. Class Expertise
+  - Enhancement of 1 Class Trait of Choice
+    (Discuss with DM)
+. Evolution of Self
+  - Enhancement of 1 Racial Trait of Choice
+    (Discuss with DM)
+. Spellcasting Advancement
+  - Gain 1 Spell Slot of Any Level
+    (Discuss with DM)
+
+log5(x)+1 is CR scaling for party size (round down)
+Level to CR (x/4 when LV 1or2, x-2 otherwise)
+
+Overall CR for encounter = if LV <= 2
+                              CR = (log3(size)+1) * LV/4
+                              +/- 0.25
+                           else
+                              CR = (log3(size)+1) * (LV-2)
+                              +/- 1

@@ -1,0 +1,48 @@
+Dwarf
+Elf
+Halfling
+Human
+Dragonborn
+Gnome
+Half-Elf
+Half-Orc
+Tiefling
+Astral Elf
+Autognome
+Giff
+Hadozee
+Thri-kreen
+Aasimar
+Firbolg
+Goliath
+Kenku
+Lizardfolk
+Tabaxi
+Triton
+Bugbear
+Goblin
+Hobgolbin
+Kobold
+Orc
+Yuan-Ti
+Aarakocra
+Centaur
+Changling
+Deep Gnome
+Duergar
+Eladrin
+Fairy
+Genasi, Earth
+Genasi, Air
+Genasi, Water
+Genasi, Fire
+Githyanki
+Githzerai
+Harnegon
+Minotaur
+Satyr
+Sea Elf
+Shadar-kai
+Shifter
+Tabaxi
+Tortle

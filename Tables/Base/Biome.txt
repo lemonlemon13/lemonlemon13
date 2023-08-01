@@ -1,0 +1,15 @@
+Ice Plains
+Fungal Forest
+Lava Fields
+Black Desert
+Ice Forest
+Artic
+Coastal
+Desert
+Forest
+Grasslands
+Hills
+Mountains
+High Mountains
+Swamp
+Underground
