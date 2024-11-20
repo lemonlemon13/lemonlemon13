@@ -1,0 +1,2 @@
+v1.0.0
+The first version. Wrote the code for the Clients/Server to talk to each other and connect via a generated room code. Not much else to say.

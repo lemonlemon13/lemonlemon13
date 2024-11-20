@@ -1,0 +1,1 @@
+This is a set of scripts that can create a chat room that can handle up to 16 users in the same room.
